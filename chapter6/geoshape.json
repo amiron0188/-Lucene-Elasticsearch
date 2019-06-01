@@ -1,0 +1,12 @@
+﻿{"index":{ "_index": "geoshape", "_type": "city", "_id": "1" }}
+{"name":"北京","location":"116.3973999023,39.9088145109"}
+{"index":{ "_index": "geoshape", "_type": "city", "_id": "2" }}
+{"name":"乌鲁木齐","location":"87.6168800000,43.8266300000"}
+{"index":{ "_index": "geoshape", "_type": "city", "_id": "3" }}
+{"name":"西安","location":"108.9398400000,34.3412700000"}
+{"index":{ "_index": "geoshape", "_type": "city", "_id": "4" }}
+{"name":"郑州","location":"113.6587142944,34.7447157466"}
+{"index":{ "_index": "geoshape", "_type": "city", "_id": "5" }}
+{"name":"杭州","location":"120.1492309570,30.2294080260"}
+{"index":{ "_index": "geoshape", "_type": "city", "_id": "6" }}
+{"name":"济南","location":"117.1200900000,36.6518400000"}
